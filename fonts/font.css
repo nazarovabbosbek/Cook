@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Pro-Nova-bold";
+    src: url(./proxima-nova-2/Mark\ Simonson\ \ Proxima\ Nova\ Bold.otf);
+}
+
+@font-face {
+    font-family: "Pro-Nova-semi";
+    src: url(./proxima-nova-2/Mark\ Simonson\ \ Proxima\ Nova\ Semibold.otf);
+}
+
+@font-face {
+    font-family: "Pro-Nova-Thin";
+    src: url(./proxima-nova-2/Mark\ Simonson\ \ Proxima\ Nova\ Thin.otf);
+}
+
